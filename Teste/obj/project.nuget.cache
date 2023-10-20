@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7T8zNNJCNSCpWhSC0mJFln5dIawIWs6RtW6FtVmqsaFhXlIr6+6HPtF5ZBHCsvTlPP/aK3P5jhp5gzJAL8c65g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilola.joao\\source\\repos\\ElaEconomia\\Teste\\Teste\\Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilola.joao\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
